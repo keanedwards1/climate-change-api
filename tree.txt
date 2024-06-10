@@ -1,15 +1,9 @@
 .
 ├── c.sh
-├── functions
-│   ├── climate.js
-│   ├── news.js
-│   ├── newsById.js
-│   └── newspapers.js
 ├── index.js
-├── netlify.toml
 ├── package-lock.json
 ├── package.json
 ├── search-info.txt
 └── tree.txt
 
-2 directories, 11 files
+1 directory, 6 files
